@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Xu",
+        "password": 1234,
+        "room": [
+            "Fathi",
+            "Fornero",
+            "Gruppo GPOI",
+            "Gruppo Hentai"
+        ]
+    }, 
+    {
+        "nome": "Fathi",
+        "password": 1234,
+        "room": [
+            "Xu",
+            "Gruppo Hentai"
+        ]
+    },
+    {
+        "nome": "Fornero",
+        "password": 1234,
+        "room": [
+            "Xu",
+            "Gruppo GPOI",
+            "Gruppo Hentai"
+        ]
+    }
+]
